@@ -5,5 +5,5 @@ Testando rebase
 teste rebase:
 teste do Jonas
 
-
+-> git fetch + rebase
 

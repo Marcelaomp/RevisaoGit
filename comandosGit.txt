@@ -13,3 +13,8 @@ git log
 Parte 3
 git fetch
 git push
+
+Parte 4
+git diff
+git clone
+git pull

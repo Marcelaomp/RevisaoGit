@@ -9,3 +9,7 @@ git commit -m
 Parte 2
 git status
 git log
+
+Parte 3
+git fetch
+git push

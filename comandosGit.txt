@@ -9,6 +9,3 @@ git commit -m
 Parte 2
 git status
 git log
-
-clone by Jonas
-edit by Jonas

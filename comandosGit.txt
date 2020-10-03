@@ -5,3 +5,7 @@ git help <command>
 git init
 git add
 git commit -m
+
+Parte 2
+git status
+git log

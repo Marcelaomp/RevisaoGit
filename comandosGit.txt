@@ -1,0 +1,7 @@
+Aula 2 
+
+Parte 1
+git help <command>
+git init
+git add
+git commit -m

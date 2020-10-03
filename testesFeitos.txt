@@ -1,2 +1,2 @@
-1 Com fork
-2 Como colaborador
+1. Com fork
+2. Como colaborador

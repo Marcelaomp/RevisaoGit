@@ -20,3 +20,4 @@ git clone
 git pull
 
 Parte 5
+git checkout

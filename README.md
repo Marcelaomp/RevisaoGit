@@ -1,5 +1,5 @@
 # Revisão de Git
 
-![estudando](./estudando.png)
+![bug](./bug.png)
 
 Repositório criado para revisar os comandos do git.
